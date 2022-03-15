@@ -8,4 +8,5 @@ description: |
 * Cyndi Chin - UI / UX, Front-End Development
 * Renil Abdulkader - Back-End Development, Authentication
 * Michael Rojas - Project Management
+* Michael Rojas - Software Development
 
